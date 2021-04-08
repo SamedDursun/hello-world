@@ -1,2 +1,3 @@
 # hello-world
 Ich teste grade
+Ich bin der Samed und bin 21 Jahre alt. Hier teste ich das commiten von Dateien... 
